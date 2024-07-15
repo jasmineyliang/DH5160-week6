@@ -2,6 +2,7 @@ Simple Statistical Modeling in R
 ================
 Wouter van Atteveldt & Kasper Welbers
 November 2018
+Credit to nlmlnyy
 
   - [Basic Modeling](#basic-modeling)
   - [T-tests](#t-tests)
