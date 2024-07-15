@@ -85,5 +85,3 @@ square <- function(x) {
 }
 # Your code here
 ```
-
-Feel free to try these tasks to get a better grasp of basic R coding!
